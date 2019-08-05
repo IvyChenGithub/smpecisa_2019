@@ -1,0 +1,2 @@
+model_checkpoint_path: "SentenceRelationModel1_nl_3_hsl_196__.cpkt"
+all_model_checkpoint_paths: "SentenceRelationModel1_nl_3_hsl_196__.cpkt"
